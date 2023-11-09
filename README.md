@@ -136,7 +136,5 @@ These instructions will help you set up the Wanderlust Travel Planner on your lo
 - **Query Parameter:** `location` (string).
 - **Response:** `200 OK`, Weather data. `404 Not Found` if not available. `500 Internal Server Error` in case of issues.
 
-### Sample Usage
 
-- Use the routes to create, update, and
 
