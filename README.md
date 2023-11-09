@@ -13,7 +13,7 @@ Wanderlust Travel Planner is your go-to Flask-based backend application designed
 - [Destination Management](#destination-management)
 - [Itinerary Planning](#itinerary-planning)
 - [Expense Tracking](#expense-tracking)
-
+-[API Documentation](#API-documentation)
 
 ## Features
 
