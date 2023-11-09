@@ -27,7 +27,7 @@ migrate = Migrate(app, db)
 
 @app.route('/')
 def hello():
-    return "Welcome to the Wanderlust Travel Planner API!"
+    return "Welcome"
 # Define a route for adding destinations
 
 
