@@ -35,4 +35,4 @@ These instructions will help you set up the Wanderlust Travel Planner on your lo
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/mayki21/Wanderlust_Travel_Planner.git
