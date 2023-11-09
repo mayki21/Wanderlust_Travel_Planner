@@ -16,9 +16,6 @@ app = Flask(_name_)
 url = os.getenv("url")
 
 
-# app.register_blueprint(swaggerui_blueprint)
-
-
 # Connect to the PostgreSQL database
 app.config['SQLALCHEMY_DATABASE_URI'] = url
 db.init_app(app)
